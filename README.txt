@@ -1,0 +1,1 @@
+AI Project to guess stock predictions
